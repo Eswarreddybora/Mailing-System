@@ -1,0 +1,27 @@
+# vs
+obj
+bin
+Bin
+build
+*.csproj.user
+*ReSharper*
+*resharper*
+*.suo
+*.user
+*.bak
+*.sln.cache
+ 
+# other
+*.bak
+*.cache
+*.log
+*.swp
+*.user
+* Thumbs.db
+*.bin
+Autotest.config
+
+#nuget package
+*.nupkg
+#Nuget/input/lib
+lib
